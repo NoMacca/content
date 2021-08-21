@@ -7,7 +7,11 @@
 
 <table>
   <tr>
-    <th>Company</th>
+    <th>Company
+    This is ok
+    
+    You know that right <br>
+    this is the best</th>
     <th>Contact</th>
     <th>Country</th>
   </tr>
