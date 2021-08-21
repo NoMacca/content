@@ -1,9 +1,9 @@
 
 * A table
 
-#+BEGIN_export html
+#+BEGIN_html
 
 <h1> this is a headig </h1>
 
 
-#+END_export
+#+END_html
