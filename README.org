@@ -1,28 +1,18 @@
-* content
+* Content Project
 This is a project to collaboratively create free teaching resources.
 
 
+
 * How to contribute to this project
-Watch the following: 
+Watch the following YouTube series:  
+https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 
-https://www.youtube.com/watch?v=_NrSWLQsDL4
-
-
-
-How can you contribute to someone elses repository.
-
-
-Important concepts.
-
-Verson control
-Repo.
-Commit.
-Branch.
-Fork.
-Pull.
-
-
-Repository is in an account. 
-
+Check that you have learnt the following key concepts: 
+- Verson control.
+- Repo.
+- Commit.
+- Branch.
+- Fork.
+- Pull.
 
 
