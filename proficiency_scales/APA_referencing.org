@@ -11,6 +11,11 @@
     This is ok
     
     You know that right <br>
+    <ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
     this is the best</th>
     <th>Contact</th>
     <th>Country</th>
