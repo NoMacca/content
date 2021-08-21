@@ -1,1 +1,10 @@
-# content
+* content
+
+
+
+
+* How to contribute to this project
+Watch the following: 
+https://www.youtube.com/watch?v=_NrSWLQsDL4
+
+
