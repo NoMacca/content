@@ -16,7 +16,11 @@ Check that you have learnt the following key concepts:
 - Pull.
 
 
-* Free and open source resources
+* Free resources
 https://librivox.org/
+
+https://code.org/
+
+
 
 
