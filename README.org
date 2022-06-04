@@ -1,8 +1,6 @@
 * Content Project
 This is a project to collaboratively create free teaching resources.
 
-
-
 * How to contribute to this project
 Watch the following YouTube series:  
 https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
@@ -16,10 +14,13 @@ Check that you have learnt the following key concepts:
 - Pull.
 
 
-* Free resources
+* Resources
 https://librivox.org/
 
 https://code.org/
+
+https://open.umn.edu/opentextbooks/books
+
 
 
 
